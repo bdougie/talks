@@ -5,12 +5,14 @@ These are the talks I'm currently giving as of 2020. _This repo was inspired by 
 ## Talks 
 Would you like bdougie to speak? Reach out on Twitter - [@bdougieYO](https://twitter.com/bdougieYO)
 
-- TBD
+- [GitHub Actions](talks/actions.md)
+- [Octokit.rb](talks/octokit.md)
 
 ## Workshops
-- TBD
+- [GitHub Actions](talks/actions-workshop.md)
 
 ## Keynotes
+- [Your path to open source contributions](talks/open-source.md)
 
-And the bio I'm currently using!
+And the [bio](bio/bios.md) I'm currently using!
 
