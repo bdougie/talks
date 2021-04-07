@@ -1,3 +1,5 @@
+![bdougie talks image](https://user-images.githubusercontent.com/5713670/113876294-97e8e800-9785-11eb-803b-873d40597400.png)
+
 
 # Call For Propoosals
 These are the talks I'm currently giving as of 2020. _This repo was inspired by [aspittel/cfps](https://github.com/aspittel/cfps)._ 
