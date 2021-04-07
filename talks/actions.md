@@ -1,10 +1,10 @@
 # Getting Traction with GitHub Actions
 
-short:
+**Short Description**:
 
 Join Brian in walking through how you can leverage action packed workflows to supercharge your repos on GitHub by building them with containers to run arbitrary code, run CI, and even automate portion of your developer workflow.
 
-abstract:
+**Abstract**:
 
 DevOps goals have stayed the same over the year, but our tools, infrastructure, and operating models have changed. To support modern software delivery, organizations must establish and share proven developer workflows.
 
