@@ -15,3 +15,4 @@ abstract:
 
 The goal of DevOps has stayed the same, but our tools, infrastructure, and operating models have changed. To support modern software delivery, it’s critical for organizations to know and prepare for what’s coming next.
 
+https://github.com/github-craftwork/start-here
