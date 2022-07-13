@@ -1,12 +1,12 @@
 # Speaker Bios
 
 ## Short
-Brian Douglas leads Developer Advocacy at GitHub where he works on increasing use of the GitHub’s platform specific features.
+Brian Douglas is the founder and CEO of Open Sauced, a project that empowers the best developers to work in open-source.
 
 ## Medium
-Brian Douglas leads Developer Advocacy at GitHub where he works on increasing use of the GitHub’s platform specific features through technical content distributed on the internet. In addition to that, Brian has a passion for open source and loves mentoring new contributors.
+Brian Douglas is the founder and CEO of Open Sauced, a project that empowers the best developers to work in open-source. Brian has a passion for open-source and seeing new folks find a path into making contributions.
 
 ## Long
-Brian Douglas leads Developer Advocacy at GitHub where he works on increasing use of the GitHub and its API by fostering a community of early adopters through the developer programs. In the past he’s lead Developer Experience at Netlify, while leveraging his early knowledge of React and JavaScript to create a deep well of technical content, spearheading efforts towards a public GraphQL API while delivering talks and workshops around the world. 
+Brian Douglas is the founder and CEO of Open Sauced where he works on increasing the knowledge and insights of open-source communties. In the past he’s lead Developer Advocacy at GitHub by fostering a community of early adopters through content creation showcasing the newest Github features.
 
-Brian has a passion for open source and loves mentoring new contributors through Open Sauced, a platform for finding your next open source contribution.
+Brian has a passion for open-source and loves mentoring new contributors through Open Sauced, a platform for finding your next open-source contribution.
