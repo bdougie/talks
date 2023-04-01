@@ -1,3 +1,7 @@
 ## abstract
 
-Finding success in open source can be challenging. Having a clear understanding of the key metrics to measure and optimize is essential for project success, but it’s not always obvious what to track. This talk will explore the lesser-discussed metrics that all open-source projects should be tracking, including both contributor metrics and end-user usage metrics. We'll delve into contributor metrics such as spam rates, pull request velocity and SLAs, and repeat contributors, as well as end-user metrics like documentation to download ratios, churn rates, unique users, and end-user geography. With this guide to the less obvious metrics that matter, open-source project maintainers will be better equipped to work smarter toward success (whatever that means to them) and make data-informed decisions about the future of their projects.
+Finding success in open source can be challenging because success is not defined well. 
+
+Having a clear understanding of the key metrics to measure and optimize is essential for project success, but it’s not always obvious what to track. This talk will explore the lesser-discussed metrics that all open-source projects should be tracking how often contributors return and even the ratio employee to community contributions in the most popular projects on GitHub. We'll also delve into contributor metrics such as spam rates, pull request velocity and SLAs. 
+
+With this tour into insights into the less obvious metrics that matter, open-source project maintainers will be better equipped to work smarter toward success (whatever that means to them) and make data-informed decisions about the future of their projects.
