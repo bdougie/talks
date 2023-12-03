@@ -14,7 +14,7 @@ Would you like bdougie to speak? Reach out on Twitter - [@bdougieYO](https://twi
 - [GitHub Actions](talks/actions-workshop.md)
 
 ## Keynotes
-- [Your path to open source contributions](talks/open-source.md)
+- [Your path to open source contributions](https://www.youtube.com/watch?v=kflQhGy19lQ)
 
 And the [bio](bio/bios.md) I'm currently using!
 
