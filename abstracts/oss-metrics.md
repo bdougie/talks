@@ -1,15 +1,6 @@
 ## titles
 
-- "Unveiling the Hidden Metrics: Navigating Open Source Success"
-- "Cracking the Code: Revealing the Key Metrics for Open Source Triumph"
-- "Beyond the Obvious: Uncovering the Metrics that Drive Open Source Projects to Success"
-- "Unlocking the Secrets: Unraveling the Lesser-Discussed Metrics for Open Source Achievement"
-- "From Numbers to Impact: Harnessing Unconventional Metrics for Open Source Triumph"
-- "Measure to Excel: Unveiling Essential Metrics for Open Source Project Success"
-- "Data-Driven Decisions: Uncovering the Key Metrics Shaping Open Source Prosperity"
-- "Navigating the Metrics Maze: Discovering the Path to Open Source Success"
-- "Success by the Numbers: Exploring Crucial Metrics for Open Source Projects"
-- "The Road to Open Source Victory: Unveiling Lesser-Known Metrics for Success"
+- "Unconventional Metrics in Open Source"
 
 ## abstract
 
