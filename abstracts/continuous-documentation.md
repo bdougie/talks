@@ -1,0 +1,1 @@
+Managing documentation with agents sound like a bad idea. Agents slop is not going to help user's path to value. This talk will demonstrate how my team leverages Continuous AI (Trigger → Agent → Review → Ship) to solve for poorly generated documentation by ensuring agents are just as informed as any human team member.
