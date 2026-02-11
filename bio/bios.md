@@ -1,15 +1,15 @@
 # Speaker Bios
 
 ## Short
-Brian is the Head of DX at Continue, an open source platform to create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models.
+Brian is the founder of the Paper Compute Company, an distributed systems primitives for AI agents.
 
 ## Medium
-Brian is the Head of DX at Continue, an open source platform to create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models.
+Brian is the founder of the Paper Compute Company, an distributed systems primitives for AI agents.
 
 Brian previously founded Open Sauced where he woreds on increasing the knowledge and insights of open-source communities. In the past he’s lead Developer Advocacy at GitHub by fostering a community of early adopters through conversations with the top open source maintainers on GitHub.
 
 ## Long
-Brian is the Head of DX at Continue, an open source platform to create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models.
+Brian is the founder of the Paper Compute Company, an distributed systems primitives for AI agents.
 
 Brian previously founded Open Sauced, a company dedicated to increasing knowledge and insights of open-source communities. In 2024, Open Sauced joined the Linux Foundation, further solidifying Brian’s commitment to advancing open-source initiatives. With a passion for open source, Brian has consistently supported and mentored new contributors through Open Sauced, empowering developers to excel in the open-source ecosystem.
 
